@@ -1,0 +1,22 @@
+﻿  student.cpp
+C:\Users\lewic\Downloads\Lab10 - Exercise 4-20230117\student.h(15,27): error C3646: 'Student': unknown override specifier
+C:\Users\lewic\Downloads\Lab10 - Exercise 4-20230117\student.h(15,14): error C2059: syntax error: '('
+C:\Users\lewic\Downloads\Lab10 - Exercise 4-20230117\student.h(15,34): error C2059: syntax error: '('
+C:\Users\lewic\Downloads\Lab10 - Exercise 4-20230117\student.h(16,27): error C2143: syntax error: missing ')' before ';'
+C:\Users\lewic\Downloads\Lab10 - Exercise 4-20230117\student.h(16,27): error C2059: syntax error: ')'
+C:\Users\lewic\Downloads\Lab10 - Exercise 4-20230117\student.cpp(8,10): error C2511: 'Student::Student(std::string)': overloaded member function not found in 'Student'
+C:\Users\lewic\Downloads\Lab10 - Exercise 4-20230117\student.h(5): message : see declaration of 'Student'
+C:\Users\lewic\Downloads\Lab10 - Exercise 4-20230117\student.cpp(10,17): error C2597: illegal reference to non-static member 'Student::first_name'
+C:\Users\lewic\Downloads\Lab10 - Exercise 4-20230117\student.h(7): message : see declaration of 'Student::first_name'
+C:\Users\lewic\Downloads\Lab10 - Exercise 4-20230117\student.cpp(11,17): error C2597: illegal reference to non-static member 'Student::last_name'
+C:\Users\lewic\Downloads\Lab10 - Exercise 4-20230117\student.h(8): message : see declaration of 'Student::last_name'
+C:\Users\lewic\Downloads\Lab10 - Exercise 4-20230117\student.cpp(12,11): error C2597: illegal reference to non-static member 'Student::reg_num'
+C:\Users\lewic\Downloads\Lab10 - Exercise 4-20230117\student.h(9): message : see declaration of 'Student::reg_num'
+C:\Users\lewic\Downloads\Lab10 - Exercise 4-20230117\student.cpp(16,19): error C2664: 'void Student::setAge(int)': cannot convert argument 1 from 'std::string' to 'int'
+C:\Users\lewic\Downloads\Lab10 - Exercise 4-20230117\student.cpp(16,12): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\lewic\Downloads\Lab10 - Exercise 4-20230117\student.h(24,10): message : see declaration of 'Student::setAge'
+C:\Users\lewic\Downloads\Lab10 - Exercise 4-20230117\student.cpp(18,17): error C2597: illegal reference to non-static member 'Student::degree'
+C:\Users\lewic\Downloads\Lab10 - Exercise 4-20230117\student.h(11): message : see declaration of 'Student::degree'
+C:\Users\lewic\Downloads\Lab10 - Exercise 4-20230117\student.cpp(21,11): error C2600: 'Student::~Student': cannot define a compiler-generated special member function (must be declared in the class first)
+  Lab10Ex4.cpp
+  Generating Code...
