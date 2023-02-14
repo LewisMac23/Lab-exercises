@@ -1,0 +1,15 @@
+C:\Users\lewic\source\repos\Lab4Ex1\Lab4Ex1\bin\Debug\net6.0\Lab4Ex1.exe
+C:\Users\lewic\source\repos\Lab4Ex1\Lab4Ex1\bin\Debug\net6.0\Lab4Ex1.deps.json
+C:\Users\lewic\source\repos\Lab4Ex1\Lab4Ex1\bin\Debug\net6.0\Lab4Ex1.runtimeconfig.json
+C:\Users\lewic\source\repos\Lab4Ex1\Lab4Ex1\bin\Debug\net6.0\Lab4Ex1.dll
+C:\Users\lewic\source\repos\Lab4Ex1\Lab4Ex1\bin\Debug\net6.0\Lab4Ex1.pdb
+C:\Users\lewic\source\repos\Lab4Ex1\Lab4Ex1\obj\Debug\net6.0\Lab4Ex1.csproj.AssemblyReference.cache
+C:\Users\lewic\source\repos\Lab4Ex1\Lab4Ex1\obj\Debug\net6.0\Lab4Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lewic\source\repos\Lab4Ex1\Lab4Ex1\obj\Debug\net6.0\Lab4Ex1.AssemblyInfoInputs.cache
+C:\Users\lewic\source\repos\Lab4Ex1\Lab4Ex1\obj\Debug\net6.0\Lab4Ex1.AssemblyInfo.cs
+C:\Users\lewic\source\repos\Lab4Ex1\Lab4Ex1\obj\Debug\net6.0\Lab4Ex1.csproj.CoreCompileInputs.cache
+C:\Users\lewic\source\repos\Lab4Ex1\Lab4Ex1\obj\Debug\net6.0\Lab4Ex1.dll
+C:\Users\lewic\source\repos\Lab4Ex1\Lab4Ex1\obj\Debug\net6.0\refint\Lab4Ex1.dll
+C:\Users\lewic\source\repos\Lab4Ex1\Lab4Ex1\obj\Debug\net6.0\Lab4Ex1.pdb
+C:\Users\lewic\source\repos\Lab4Ex1\Lab4Ex1\obj\Debug\net6.0\Lab4Ex1.genruntimeconfig.cache
+C:\Users\lewic\source\repos\Lab4Ex1\Lab4Ex1\obj\Debug\net6.0\ref\Lab4Ex1.dll
